@@ -2,18 +2,18 @@
   "name": "ethereum",
   "children": [
     {
-      "name":  "Fiat on-ramps", "img": "https://www.pngfind.com/pngs/m/560-5600539_png-cat-funny-icon-05-funny-cat-icon.png", "icon":  "face",
+      "name":  "Fiat on-ramps", "icon":  "face",
       "children": [
         { "name": "Rainbow", "img": "", "url": "https://rainbow.me/", "value": 10},
-        { "name": "Binance", "img": "", "url": "https://www.binance.com/en/register?ref=VNP1A8SR", "value": 10},
+        { "name": "Binance", "img": "", "url": "https://www.binance.com/", "value": 10},
         { "name": "Coinbase", "img": "", "url": "https://www.coinbase.com/", "value": 10},
-        { "name": "FTX", "img": "", "url": "https://ftx.com/#a=10575382", "value": 10},
-        { "name": "Gate io", "img": "", "url": "https://www.gate.io/signup/3303835", "value": 10},
-        { "name": "Gemini", "img": "", "url": "https://gemini.com/share/86yng7t9", "value": 10},
+        { "name": "FTX", "img": "", "url": "https://ftx.com/", "value": 10},
+        { "name": "Gate io", "img": "", "url": "https://www.gate.io/", "value": 10},
+        { "name": "Gemini", "img": "", "url": "https://gemini.com/", "value": 10},
         { "name": "Moonpay", "img": "", "url": "https://www.moonpay.com/", "value": 10},
-        { "name": "OKEx", "img": "", "url": "https://www.okex.com/join/4945328", "value": 10},
+        { "name": "OKEx", "img": "", "url": "https://www.okex.com/", "value": 10},
         { "name": "OKCoin", "img": "", "value": 10, "children" : [
-          { "name": "OKCoin website", "img": "", "url": "https://www.okcoin.com/join?channelId=600054339", "value": 2},
+          { "name": "OKCoin website", "img": "", "url": "https://www.okcoin.com/", "value": 2},
           { "name": "facebook", "img": "", "url": "https://facebook.com/OKCoinOfficial", "value": 2},
           { "name": "instagram", "img": "", "url": "https://www.instagram.com/okcoinofficial/", "value": 2},
           { "name": "telegram", "img": "", "url": "https://t.me/okcoin_en", "value": 2}
@@ -73,6 +73,7 @@
     {
       "name": "Dev tools", "icon":  "face",
       "children": [
+        { "name": "Austin Griffith's ETH repos", "img": "", "url": "https://github.com/austintgriffith", "value": 10},
         { "name": "Graph protocol", "img": "", "url": "https://thegraph.com/", "value": 10},
         { "name": "Ethers-io", "img": "", "url": "https://github.com/ethers-io", "value": 10},
         { "name": "Hardhat", "img": "", "url": "https://hardhat.org/", "value": 10},
@@ -165,14 +166,6 @@
         },
         { "name": "Curve", "img": "", "url": "https://www.curve.fi/", "value": 10},
         { "name": "Dodo", "img": "", "url": "https://dodoex.io/", "value": 10},
-        { "name": "Harvest Finance", "img": "", "value": 10, "children" :
-        [
-          { "name" :  "Homepage", "url": "https://harvest.finance/", "value": 3 },
-          { "name" :  "Twitter", "url": "https://twitter.com/harvest_finance", "value": 3 },
-          { "name" :  "Discord", "url": "http://discord.gg/gzWAG3Wx7Y", "value": 3 },
-          { "name" :  "Github", "url": "https://github.com/harvest-finance/", "value": 3 }
-        ]
-        },
         { "name": "Indexed finance", "img": "", "url": "https://indexed.finance/", "value": 10},
         { "name": "Maker", "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png", "url": "https://makerdao.com/", "value": 10},
         { "name": "Numerai", "img": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671/logo.png", "url": "https://numer.ai/", "value": 10},
