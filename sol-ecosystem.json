@@ -1,0 +1,101 @@
+{
+  "name": "solana",
+  "children": [
+    {
+      "name":  "Fiat on-ramps + exchange", "icon": "face",
+      "children": [
+        { "name": "FTX", "img": "", "url": "https://ftx.com/#a=10575382", "value": 10},
+        { "name": "Binance", "img": "", "url": "https://www.binance.com/en/register?ref=VNP1A8SR", "value": 10},
+        { "name": "Bitfinex", "img": "", "url": "https://www.bitfinex.com/", "value": 10},
+        { "name": "Blockfolio", "img": "", "url": "https://blockfolio.com/", "value": 10},
+        { "name": "Crypto.com", "img": "", "url": "https://crypto.com/", "value": 10},
+        { "name": "Gate io", "img": "", "url": "https://www.gate.io/signup/3303835", "value": 10},
+        { "name": "Huobi", "img": "", "url": "https://www.huobi.com/en-us/", "value": 10},
+        { "name": "OKEx", "img": "", "url": "https://www.okex.com/join/4945328", "value": 10},
+        { "name": "Uphold", "img": "", "url": "https://uphold.com/", "value": 10}
+      ]
+    },
+    {
+      "name": "DeFi", "icon":  "",
+      "children": [
+        { "name": "Bonafida", "img": "", "url": "https://dex.bonfida.com/", "value": 10},
+        { "name": "Raydium", "img": "", "url": "https://raydium.io/swap/", "value": 10},
+        { "name": "Serum", "img": "", "url": "https://dex.projectserum.com/", "value": 10},
+        { "name": "Dexlab", "img": "", "url": "https://www.dexlab.space", "value": 10},
+        { "name": "Doce swap", "img": "", "url": "https://swap.doce.finance/#/?pair=SOL-USDC", "value": 10},
+        { "name": "Hedgehog", "img": "", "url": "https://www.hedgehog.markets/", "value": 10},
+        { "name": "Lunadex", "img": "", "url": "https://lunadex.com/", "value": 10},
+        { "name": "Mango markets", "img": "", "url": "https://mango.markets/", "value": 10},
+        { "name": "Orca", "img": "", "url": "https://www.orca.so/", "value": 10},
+        { "name": "Oxygen", "img": "", "url": "https://www.oxygen.org/", "value": 10},
+        { "name": "PsyOptions", "img": "", "url": "https://psyoptions.io/", "value": 10},
+        { "name": "Ramp DeFi", "img": "", "url": "https://appv2.rampdefi.com/#/", "value": 10},
+        { "name": "Solrise finance", "img": "", "url": "https://solrise.finance/", "value": 10},
+        { "name": "Synthetifi", "img": "", "url": "https://synthetify.io/", "value": 10},
+        { "name": "Traderdome", "img": "", "url": "https://traderdome.io/#/", "value": 10}
+      ]
+    },
+    {
+      "name": "Infra", "icon":  "",
+      "children": [
+        { "name": "Solana", "img": "", "url": "https://solana.com/", "value": 10},
+        { "name": "Bison Trails", "img": "", "url": "https://bisontrails.co/solana/", "value": 10},
+        { "name": "Akash", "img": "", "url": "https://akash.network/", "value": 10},
+        { "name": "Arweave", "img": "", "url": "https://www.arweave.org/", "value": 10},
+        { "name": "Hummingbot", "img": "", "url": "https://hummingbot.io/", "value": 10},
+        { "name": "Decentology", "img": "", "url": "https://www.decentology.com/", "value": 10},
+        { "name": "Magic", "img": "", "url": "https://docs.magic.link/blockchains/solana", "value": 10},
+        { "name": "Terra", "img": "", "url": "https://terra.money/", "value": 10},
+        { "name": "Torus", "img": "", "url": "https://tor.us/partners.html", "value": 10},
+        { "name": "Pocket", "img": "", "url": "https://pokt.network/", "value": 10},
+        { "name": "Plasma Pay", "img": "", "url": "https://plasmapay.com/", "value": 10},
+        { "name": "Moonpay", "img": "", "url": "https://www.moonpay.com/", "value": 10},
+        { "name": "Parsiq", "img": "", "url": "https://www.parsiq.net/en/app/solana", "value": 10}
+      ]
+    },
+    {
+      "name": "Launchpad", "icon":  "",
+      "children": [
+        { "name": "Solstarter", "img": "", "url": "https://solstarter.org/", "value": 10}
+      ]
+    },
+    {
+      "name": "Tools", "icon":  "",
+      "children": [
+        { "name": "Solana beach", "img": "", "url": "https://solanabeach.io/", "value": 10},
+        { "name": "Solana explorer", "img": "", "url": "https://explorer.solana.com/", "value": 10},
+        { "name": "Step finance", "img": "", "url": "https://test.step.finance/", "value": 10}
+      ]
+    },
+    {
+      "name": "Insight and analytics", "icon":  "",
+      "children": [
+        { "name": "Bonfida", "img": "", "url": "https://docs.bonfida.com/#introduction", "value": 10},
+        { "name": "Cope", "img": "", "url": "https://www.unlimitedcope.com/", "value": 10},
+        { "name": "Solana Project", "img": "", "url": "https://solanaproject.com/", "value": 10}
+]},
+    {
+      "name": "Wallets", "icon":  "",
+      "children": [
+        { "name": "Sollet - web wallet", "img": "", "url": "https://www.sollet.io/", "value": 10},
+        { "name": "Phantom", "img": "", "url": "https://phantom.app/", "value": 10},
+        { "name": "Math wallet", "img": "", "url": "https://mathwallet.org/en-us/", "value": 10},
+        { "name": "Coin98 wallet", "img": "", "url": "https://coin98.app/", "value": 10},
+        { "name": "Exodus", "img": "", "url": "https://www.exodus.com/", "value": 10},
+        { "name": "Trust wallet", "img": "", "url": "https://trustwallet.com/", "value": 10},
+        { "name": "Ledger", "img": "", "url": "https://support.ledger.com/hc/en-us/articles/360016265659-Solana-SOL-", "value": 10},
+        { "name": "P2P wallet", "img": "", "url": "https://p2p-org.github.io/p2p-wallet-web/", "value": 10},
+        { "name": "Solflare", "img": "", "url": "https://solflare.com/", "value": 10}
+      ]
+    },
+    {
+      "name": "NFT and games", "icon":  "",
+      "children": [
+        { "name": "Break Solana", "img": "", "url": "https://break.solana.com/", "value": 10},
+        { "name": "Solible", "img": "", "url": "https://solible.com/#/", "value": 10},
+        { "name": "Solarians", "img": "", "url": "https://solarians.click/", "value": 10},
+        { "name": "Star Atlas", "img": "", "url": "https://staratlas.com/", "value": 10}
+      ]
+    }
+  ]
+}
