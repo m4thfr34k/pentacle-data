@@ -1,4 +1,4 @@
 # pentacle-data
 
-data for pentacle ethereum ecosystem 
-interactive visualisation
+eth-ecosystem.json
+sol-ecosystem.json
