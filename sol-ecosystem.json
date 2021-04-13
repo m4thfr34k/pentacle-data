@@ -39,9 +39,10 @@
       "name": "Infra", "icon":  "",
       "children": [
         { "name": "Solana", "img": "", "url": "https://solana.com/", "value": 10},
-        { "name": "Bison Trails", "img": "", "url": "https://bisontrails.co/solana/", "value": 10},
+        { "name": "aleph.im", "img": "", "url": "https://aleph.im/#/", "value": 10},
         { "name": "Akash", "img": "", "url": "https://akash.network/", "value": 10},
         { "name": "Arweave", "img": "", "url": "https://www.arweave.org/", "value": 10},
+        { "name": "Bison Trails", "img": "", "url": "https://bisontrails.co/solana/", "value": 10},
         { "name": "Hummingbot", "img": "", "url": "https://hummingbot.io/", "value": 10},
         { "name": "Decentology", "img": "", "url": "https://www.decentology.com/", "value": 10},
         { "name": "Magic", "img": "", "url": "https://docs.magic.link/blockchains/solana", "value": 10},
@@ -56,6 +57,7 @@
     {
       "name": "Launchpad", "icon":  "",
       "children": [
+        { "name": "AcceleRaytor", "img": "", "url": "https://raydium.medium.com/introducing-acceleraytor-536574aae1c0", "value": 10},
         { "name": "Solstarter", "img": "", "url": "https://solstarter.org/", "value": 10}
       ]
     },
@@ -71,9 +73,13 @@
       "name": "Insight and analytics", "icon":  "",
       "children": [
         { "name": "Bonfida", "img": "", "url": "https://docs.bonfida.com/#introduction", "value": 10},
-        { "name": "Cope", "img": "", "url": "https://www.unlimitedcope.com/", "value": 10},
-        { "name": "Solana Project", "img": "", "url": "https://solanaproject.com/", "value": 10}
-]},
+        { "name": "Cope", "img": "", "value": 5, "children": [
+          { "name": "Cope website", "img": "", "url": "https://www.unlimitedcope.com/", "value": 2},
+          { "name": "@cyrii_MM twitter", "img": "", "url": "https://twitter.com/cyrii_MM", "value": 2}
+        ]},
+        { "name": "Solana Project", "img": "", "url": "https://solanaproject.com/", "value": 10},
+        { "name": "Get $COPE video by くりぷ", "img": "", "url": "https://www.youtube.com/watch?v=Q7s1X9jUwBQ", "value": 10}
+      ]},
     {
       "name": "Wallets", "icon":  "",
       "children": [
