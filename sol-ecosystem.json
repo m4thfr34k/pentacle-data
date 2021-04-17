@@ -100,7 +100,8 @@
         { "name": "Break Solana", "img": "", "url": "https://break.solana.com/", "value": 10},
         { "name": "Solible", "img": "", "url": "https://solible.com/#/", "value": 10},
         { "name": "Solarians", "img": "", "url": "https://solarians.click/", "value": 10},
-        { "name": "Star Atlas", "img": "", "url": "https://staratlas.com/", "value": 10}
+        { "name": "Star Atlas", "img": "", "url": "https://staratlas.com/", "value": 10},
+        { "name": "Kreechures", "img": "https://ipfs.io/ipfs/QmQ5YPBFUWeKNFbsBDL8WcXWmu1MwisXZVtwofdZQxmQE9/Kreechure%20logo.svg", "url": "https://www.kreechures.com/", "value": 10}
       ]
     }
   ]
