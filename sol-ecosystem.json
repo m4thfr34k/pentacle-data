@@ -33,6 +33,8 @@
         { "name": "Solrise finance", "img": "", "url": "https://solrise.finance/", "value": 10},
         { "name": "Synthetifi", "img": "", "url": "https://synthetify.io/", "value": 10},
         { "name": "Traderdome", "img": "", "url": "https://traderdome.io/#/", "value": 10}
+        { "name": "Hxro", "img": "", "url": "https://hxro.io/", "value": 10}
+        { "name": "Orca", "img": "", "url": "https://orca.so/", "value": 10}
       ]
     },
     {
@@ -52,12 +54,15 @@
         { "name": "Plasma Pay", "img": "", "url": "https://plasmapay.com/", "value": 10},
         { "name": "Moonpay", "img": "", "url": "https://www.moonpay.com/", "value": 10},
         { "name": "Parsiq", "img": "", "url": "https://www.parsiq.net/en/app/solana", "value": 10}
+        { "name": "Media Network", "img": "", "url": "https://media.network/", "value": 10}
       ]
     },
     {
       "name": "Launchpad", "icon":  "",
       "children": [
-        { "name": "AcceleRaytor", "img": "", "url": "https://raydium.medium.com/introducing-acceleraytor-536574aae1c0", "value": 10},
+        { "name": "AcceleRaytor", "img": "", "value": 5, "children": [
+          { "name": "AcceleRaytor announcement", "img": "", "url": "https://raydium.medium.com/introducing-acceleraytor-536574aae1c0", "value": 2},
+          { "name": "Media Network", "img": "", "url": "https://media.network/", "value": 2}
         { "name": "Solstarter", "img": "", "url": "https://solstarter.org/", "value": 10}
       ]
     },
@@ -101,6 +106,7 @@
         { "name": "Solible", "img": "", "url": "https://solible.com/#/", "value": 10},
         { "name": "Solarians", "img": "", "url": "https://solarians.click/", "value": 10},
         { "name": "Star Atlas", "img": "", "url": "https://staratlas.com/", "value": 10}
+        { "name": "Kreechures", "img": "", "url": "https://kreechures.com", "value": 10}
       ]
     }
   ]
